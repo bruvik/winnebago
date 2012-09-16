@@ -621,6 +621,7 @@
 				INFOPLIST_FILE = "Winnebago-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Winnebago;
+				SDKROOT = macosx10.7;
 			};
 			name = Debug;
 		};
@@ -635,6 +636,7 @@
 				INFOPLIST_FILE = "Winnebago-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Winnebago;
+				SDKROOT = macosx10.7;
 			};
 			name = Release;
 		};
